@@ -2,10 +2,10 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  :Sukhmandeep kaur 
+Student ID#:171133234 
+Email      :skaur1193@myseneca.ca 
+Section    :NJJ 
 
 Authenticity Declaration:
 
@@ -14,3 +14,9 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ###########################################################################
 
+
+I do not have any expeirence in the field of computer programming or any of the computer language. I think it is not that easy to learn C language as it seemed to me earlier but I will try to give my best to learn the things that my professor will teach.
+
+The process of firstly writing the code and then compiling it with the help a compiler is quiet difficult for me personally. i find it little hard maybe, because i don't have any experience in this. Hopefully I'll find it easy in coming days.
+
+I want to be a sucssessful programmer and get a good job in this field. And this is the perfect course according to me to achieve my goals and get my career started. 
