@@ -2,10 +2,10 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  :Sukhmandeep kaur
+Student ID#:171133234 
+Email      :skaur1193@myseneca.ca 
+Section    :njj 
 
 Authenticity Declaration:
 
@@ -14,3 +14,6 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ###########################################################################
 
+Answer 1:- I have completed my high school from my home country and I had no experience in the field of programming back than.While learning C language I find it quite difficult maybe because I don't any kind of experience. But i hope that after completing this course I'll not find it difficult anymore.
+
+Answer 2:- There are several steps involved in compiling the C program  
